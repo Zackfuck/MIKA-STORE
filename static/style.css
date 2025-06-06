@@ -1,0 +1,22 @@
+body {
+    background-color: #fff200;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+.title {
+    color: black;
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+form input, form button {
+    margin: 10px;
+    padding: 10px;
+    font-size: 1em;
+}
+button {
+    background-color: black;
+    color: yellow;
+    border: none;
+    cursor: pointer;
+}
